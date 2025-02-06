@@ -13,7 +13,7 @@ import rehypeKatex from 'rehype-katex';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '左岸的Blog',
-  tagline: '“坐而论道，起而行之” by 《剑来》',
+  tagline: '坐而论道，起而行之',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
